@@ -1,4 +1,4 @@
-# For Integration Test
+# To run Integration Test
 
 cd deploy/docker-compose
 

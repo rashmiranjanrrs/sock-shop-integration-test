@@ -1,7 +1,9 @@
 # For Integration Test
 
 cd deploy/docker-compose
+
 sudo docker compose build integration-test
+
 sudo docker compose up integration-test
 
 [![Build Status](https://travis-ci.org/microservices-demo/microservices-demo.svg?branch=master)](https://travis-ci.org/microservices-demo/microservices-demo)
